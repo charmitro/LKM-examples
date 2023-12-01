@@ -1,0 +1,9 @@
+= Linux Kernel Module Examples
+
+This repository is dedicated in learning how to write LKM (Linux Kernel Modules). Most of the modules are derived from https://sysprog21.github.io/lkmpg[The Linux Kernel Module Programming Guide].
+
+==== Examples list
+
+* https://github.com/charmitro/LKM-examples/tree/master/hello_world[Hello World]
+* https://github.com/charmitro/LKM-examples/tree/master/params[LKM Parameters]
+
